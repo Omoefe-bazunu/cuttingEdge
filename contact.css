@@ -546,3 +546,11 @@ footer {
 
 
 }
+
+
+ @media (max-width: 380px) {
+
+ .sec1 {
+  overflow: hidden;
+ }
+ }
