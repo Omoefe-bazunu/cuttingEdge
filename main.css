@@ -695,3 +695,10 @@ nav {
    width:80%;
  }
  }
+
+ @media (max-width: 350px) {
+
+ #sec1 {
+  overflow: hidden;
+ }
+ }
