@@ -554,3 +554,10 @@ footer {
   overflow: hidden;
  }
  }
+
+ @media (max-width: 350px) {
+
+ #sec1 {
+  overflow: hidden;
+ }
+ }
