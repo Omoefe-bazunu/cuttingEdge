@@ -330,25 +330,25 @@ aside ul li a:hover {
 
   .ShirtPrint {
     grid-area: img1;
-    background-image: url('imageAssets/services/ShirtPrinting.jpg');
+    background-image: url('ShirtPrinting.jpg');
     background-color: #7a35e2;
   }
 
   .BannerPrint {
     grid-area: img2;
-    background-image: url('imageAssets/services/bannerPrint.jpg');
+    background-image: url('bannerPrint.jpg');
     background-color: #7a35e2;
   }
 
   .CardPrint {
     grid-area: img3;
-    background-image: url('imageAssets/services/cardsPrint.jpg');
+    background-image: url('cardsPrint.jpg');
     background-color: #7a35e2;
   }
 
   .FlyerPrint {
     grid-area: img4;
-    background-image: url('imageAssets/services/flyerPosterPrint.jpg');
+    background-image: url('flyerPosterPrint.jpg');
     background-color: #7a35e2;
   }
 
