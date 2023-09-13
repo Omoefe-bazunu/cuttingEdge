@@ -689,6 +689,7 @@ nav {
 
  #sec1 {
   overflow: hidden;
+  overflow-x:hidden;
  }
 
  .overlay-text{
@@ -700,13 +701,16 @@ nav {
 
  #sec1 {
   overflow: hidden;
+  overflow-x:hidden;
  }
+  
  }
 
  @media (max-width: 270px) {
 
  #sec1 {
   overflow: hidden;
+  overflow-x:hidden;
  }
  }
 
@@ -714,5 +718,6 @@ nav {
 
  #sec1 {
   overflow: hidden;
+  overflow-x:hidden;
  }
  }
