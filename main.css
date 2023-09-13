@@ -687,7 +687,7 @@ nav {
 
  @media (max-width: 380px) {
 
- .sec1 {
+ #sec1 {
   overflow: hidden;
  }
 
