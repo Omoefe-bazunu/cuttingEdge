@@ -690,4 +690,8 @@ nav {
  .sec1 {
   overflow: hidden;
  }
+
+ .overlay-text{
+   width:80%;
+ }
  }
