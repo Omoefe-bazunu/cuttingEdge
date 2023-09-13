@@ -702,3 +702,17 @@ nav {
   overflow: hidden;
  }
  }
+
+ @media (max-width: 270px) {
+
+ #sec1 {
+  overflow: hidden;
+ }
+ }
+
+ @media (max-width: 230px) {
+
+ #sec1 {
+  overflow: hidden;
+ }
+ }
